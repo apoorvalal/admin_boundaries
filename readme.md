@@ -1,1 +1,1 @@
-# Read GADM zipfiles and write them to parquet
+# Read GADM shapefiles, slice, and write layers to parquet
